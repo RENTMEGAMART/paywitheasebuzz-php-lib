@@ -2,8 +2,8 @@
 
     include_once 'easepay-lib.php';
 
-    $MERCHANT_KEY="XXXXXXXXX";
-    $SALT='XXXXXXXXXX';
+    $MERCHANT_KEY="H9S4KXNCR7";
+    $SALT='F4WQWWMG2H';
     $ENV='test';  // uncomment it for test env.(testpay.easebuzz.in)
 //    $ENV='prod'; // uncomment it for production env.(pay.easebuzz.in)
 
